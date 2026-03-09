@@ -7,7 +7,7 @@
 ##  Author
 
 **Muhammad Faheem**
-Associate Engineer (Electrical) · Student at Hazara University
+Ai Engineer · Student at Hazara University
 
 ---
 
