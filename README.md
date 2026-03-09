@@ -1,17 +1,17 @@
-# 📚 My DSA Series — C++
+#  My DSA Series — C++
 
 > A comprehensive collection of **Data Structures and Algorithms** implemented in C++, documenting my journey toward mastering the logic behind efficient software engineering and complex data management.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Muhammad Faheem**
 Associate Engineer (Electrical) · Student at Hazara University
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Details |
 |----------|---------|
@@ -21,7 +21,7 @@ Associate Engineer (Electrical) · Student at Hazara University
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
 | # | Topic | Highlights |
 |---|-------|------------|
@@ -36,7 +36,7 @@ Associate Engineer (Electrical) · Student at Hazara University
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 **1. Clone the repository**
 
@@ -58,7 +58,7 @@ g++ filename.cpp -o program
 
 ---
 
-## 📈 Learning Outcomes
+##  Learning Outcomes
 
 - ✅ Proficiency in **Pointer Manipulation** and manual memory management (`new` / `delete`).
 - ✅ Ability to choose the right data structure based on **Big-O Complexity**.
@@ -67,7 +67,7 @@ g++ filename.cpp -o program
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](./LICENSE).
 
